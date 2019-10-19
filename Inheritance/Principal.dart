@@ -1,6 +1,4 @@
 import 'dart:core';
-import 'dart:core' as prefix0;
-
 import 'Asistente.dart';
 import 'Coordinador.dart';
 import 'Empleado.dart';
